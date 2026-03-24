@@ -1,18 +1,118 @@
-About Me:
-Hi, I'm Ponna Vishal — a passionate and driven Bachelor of Engineering student specializing in Artificial Intelligence and Machine Learning at Chandigarh University. With a strong foundation in core engineering principles and hands-on experience in AI and ML, I’ve developed a deep interest in leveraging technology to solve real-world problems. I aspire to become a Data Scientist and Data Analyst, with proficiency in Python, C, C++, Machine Learning, Deep Learning, Natural Language Processing (NLP), and Generative AI. I'm skilled in data analytics, statistical modeling, and predictive analysis, enabling data-driven decision-making and fostering innovation across diverse domains.
+<div align="center">
 
+# 👋 Hi, I'm Ponna Vishal
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishal_ponna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ponnavishal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ponna vishal) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Vishal Ponna) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishalponna2020@gmail.com) 
+### 🤖 AI & ML Engineer · Data Science Enthusiast · Problem Solver
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ponnavishal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ponnavishal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ponnavishal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%26+Analyst;AI+%2F+ML+Engineer+in+the+Making;NLP+%7C+Deep+Learning+%7C+GenAI+Explorer;Building+AI+that+Solves+Real+Problems)](https://git.io/typing-svg)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ponnavishal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🙋‍♂️ About Me
+
+> *"Turning raw data into real-world intelligence — one model at a time."*
+
+I'm a **Bachelor of Engineering student** specializing in **Artificial Intelligence and Machine Learning** at **Chandigarh University**. I'm deeply passionate about building intelligent systems that detect, predict, and solve real-world challenges.
+
+With hands-on experience across the full ML pipeline — from data preprocessing and model training to deployment via web applications — I aspire to become a professional **Data Scientist** and **Data Analyst** who bridges the gap between data and impactful decisions.
+
+---
+
+## 🚀 What I'm Working On
+
+- 🔍 **Fake Profile Detection** — Multi-model ML system (Random Forest, SVM, Neural Networks) deployed via Flask
+- 💼 **AI Fake Job Detection** — Bidirectional LSTM + NLP pipeline to classify fraudulent job postings in real time
+- 📊 Exploring **Generative AI** and **LLM-based applications**
+
+---
+
+## 🧠 Tech Stack & Skills
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🤖 AI / ML / DL
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-NLTK-green?style=for-the-badge)
+
+### 📊 Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### 🌐 Web & Deployment
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🏆 Featured Projects
+
+### 🔐 Fake Profile Detection in Online Social Networks
+> ML-powered system to detect fake social media profiles using ensemble learning and deep learning.
+
+- ✅ Algorithms: **Random Forest**, **SVM**, **Neural Network**
+- ✅ Flask web interface with real-time predictions & confidence scores
+- ✅ Visual reports: Confusion matrices, ROC curves, feature importance
+
+---
+
+### 💼 AI Fake Job Detection System
+> NLP + Bidirectional LSTM model trained on 17,880 job postings to detect fraudulent job listings.
+
+- ✅ Full NLP pipeline: cleaning → tokenization → stemming → padding
+- ✅ **Bi-LSTM** architecture with Dropout regularization (TensorFlow/Keras)
+- ✅ Premium **Glassmorphism** Flask UI with 3D parallax effects & animated results
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Ponna Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ponnavishal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ponnavishal&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ponnavishal&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Goals & Aspirations
+
+- 🌟 Become a professional **Data Scientist & Data Analyst**
+- 🤖 Build impactful **Generative AI** applications
+- 📚 Deepen expertise in **Statistical Modeling** and **Predictive Analytics**
+- 🔍 Contribute to **open-source AI/ML** projects
+- 💼 Seek high-impact **internships** in Data Science & AI
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ponnavishal)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ponnavishal)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"I don't just study Artificial Intelligence — I build it."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ponnavishal&color=6C63FF&style=for-the-badge&label=Profile+Views)
+
+</div>
